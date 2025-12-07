@@ -1,12 +1,15 @@
 {
     "name": "Healthcare Resources Portal",
     "short_name": "HealthPortal",
-    "start_url": "./index.html",
-    "scope": "./",
+    "start_url": "/healthcare-resource-portal/",
+    "scope": "/healthcare-resource-portal/",
     "display": "standalone",
     "background_color": "#ffffff",
     "theme_color": "#007aff",
     "description": "A quick-access healthcare resources and help desk portal.",
+    "dir": "ltr",
+    "lang": "en-US",
+    "orientation": "portrait-primary",
     "icons": [
       {
         "src": "assets/icons/icon-192.png",
